@@ -1,0 +1,9 @@
+.notif{
+    width: 100%;
+    border: 1px solid gray;
+    outline: none;
+}
+u:hover{
+    color: rgb(0, 161, 214);
+}
+
